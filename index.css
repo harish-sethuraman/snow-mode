@@ -1,9 +1,8 @@
 .snow
 {
-background-image: url('https://designshack.net/tutorialexamples/letitsnow/snow.png'),
-  url('https://designshack.net/tutorialexamples/letitsnow/snow3.png'),
-  url('https://designshack.net/tutorialexamples/letitsnow/snow2.png') !important;
-background-size: cover !important;
+background-image: url('./assets/snow.png'),
+url('./assets/snow3.png'),
+url('./assets/snow2.png') !important;
 
 -webkit-animation: snow 20s linear infinite !important;
 -moz-animation: snow 20s linear infinite !important;
