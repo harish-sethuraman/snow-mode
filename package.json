@@ -1,0 +1,23 @@
+{
+  "name": "snow-theme",
+  "version": "1.0.0",
+  "description": "Add snow effects to every element !",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harish-sethuraman/snow-mode.git"
+  },
+  "keywords": [
+    "snow-theme",
+    "christmas-celebration"
+  ],
+  "author": "harish-sethuraman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harish-sethuraman/snow-mode/issues"
+  },
+  "homepage": "https://github.com/harish-sethuraman/snow-mode#readme"
+}

@@ -1,0 +1,58 @@
+.snow
+{
+background-image: url('https://designshack.net/tutorialexamples/letitsnow/snow.png'),
+  url('https://designshack.net/tutorialexamples/letitsnow/snow3.png'),
+  url('https://designshack.net/tutorialexamples/letitsnow/snow2.png') !important;
+background-size: cover !important;
+
+-webkit-animation: snow 20s linear infinite !important;
+-moz-animation: snow 20s linear infinite !important;
+-ms-animation: snow 20s linear infinite;
+animation: snow 20s linear infinite !important;
+}
+
+/*Keyframes*/
+@keyframes snow {
+0% {
+  background-position: 0px 0px, 0px 0px, 0px 0px;
+}
+
+100% {
+  background-position: 500px 1000px, 400px 400px, 300px 300px;
+}
+}
+
+@-moz-keyframes snow {
+0% {
+  background-position: 0px 0px, 0px 0px, 0px 0px;
+}
+
+100% {
+  background-position: 500px 1000px, 400px 400px, 300px 300px;
+}
+}
+
+@-webkit-keyframes snow {
+0% {
+  background-position: 0px 0px, 0px 0px, 0px 0px;
+}
+
+50% {
+  background-color: #b4cfe0;
+}
+
+100% {
+  background-position: 500px 1000px, 400px 400px, 300px 300px;
+  background-color: #6b92b9;
+}
+}
+
+@-ms-keyframes snow {
+0% {
+  background-position: 0px 0px, 0px 0px, 0px 0px;
+}
+
+100% {
+  background-position: 500px 1000px, 400px 400px, 300px 300px;
+}
+}
