@@ -22,7 +22,11 @@
 
 **import it using**
 
-      <link  rel="stylesheet"  type="text/css"  href="./node_modules/snow-theme/index.css">
+      <link  rel="stylesheet"  type="text/css"  href="https://unpkg.com/snow-theme@1.0.4/index.css">
+
+
+and add `snow` class in the division that needs snow-theme
+
 **Build it using parcel**
 
     parcel index.html
