@@ -16,9 +16,6 @@
 > use class name **snow** inside the element that you need snow fall
 
 ## **Wanna use it inside of html ?**
-**install it using**
-
-    npm i snow-theme
 
 **import it using**
 
@@ -26,11 +23,6 @@
 
 
 and add `snow` class in the division that needs snow-theme
-
-**Build it using parcel**
-
-    parcel index.html
-
 
 
 To view working demo see [this](https://harishkumar-s-s.firebaseapp.com/)
